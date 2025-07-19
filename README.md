@@ -51,24 +51,31 @@ This project was developed as an **individual assignment** for the **Mobile Appl
 ## 🖼️ Screenshots
 
 **About Us page**
+
 ![AboutUs](https://github.com/user-attachments/assets/f8eb8415-a88a-46a3-81dd-792558246c8f)
 
 **Sign Up**
+
 ![SignUp](https://github.com/user-attachments/assets/4b2cabc3-399c-4811-b661-89f24cc03a4c)
 
 **Saved Location Page**
+
 ![SavedLocationInterface](https://github.com/user-attachments/assets/6a6eef27-cd92-4364-a490-d30a5412e791)
 
 **Main User Page**
+
 ![MainUserInterface](https://github.com/user-attachments/assets/3da98a80-d48f-4c46-9f26-85f207539a5a)
 
 **Login Page**
+
 ![login](https://github.com/user-attachments/assets/5f6fe6ce-d1e2-4755-96ce-9e136022147b)
 
 **Home Page**
+
 ![homepage](https://github.com/user-attachments/assets/c47f2e25-35b3-4ddb-8134-1144b3a87c8a)
 
 **Additional About Us**
+
 ![AdditionalAboutUs](https://github.com/user-attachments/assets/11c773b4-8c29-4818-81d3-28e4ad80413f)
 
 
