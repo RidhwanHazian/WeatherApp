@@ -92,10 +92,9 @@ This project was developed as an **individual assignment** for the **Mobile Appl
 
 ## 📥 Download Links (Raw GitHub Files)
 
-> Replace these links after you upload to GitHub:
+- 🔗 [Download `WeatherMood.aia`](https://github.com/RidhwanHazian/WeatherApp/raw/main/Weather_app%20(1).aia)
+- 🔗 [Download `WeatherMood.apk`](https://github.com/RidhwanHazian/WeatherApp/raw/main/Weather_app%20(1).apk)
 
-- 🔗 [Download `WeatherMood.aia`](https://raw.githubusercontent.com/your-username/your-repo/main/WeatherMood.aia)
-- 🔗 [Download `WeatherMood.apk`](https://raw.githubusercontent.com/your-username/your-repo/main/WeatherMood.apk)
 
 ---
 
