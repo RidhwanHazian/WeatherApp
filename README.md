@@ -54,7 +54,7 @@ This project was developed as an **individual assignment** for the **Mobile Appl
 
 ![AboutUs](https://github.com/user-attachments/assets/f8eb8415-a88a-46a3-81dd-792558246c8f)
 
-**Sign Up**
+**Sign Up page**
 
 ![SignUp](https://github.com/user-attachments/assets/4b2cabc3-399c-4811-b661-89f24cc03a4c)
 
